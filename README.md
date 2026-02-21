@@ -37,4 +37,7 @@ Simple PyTorch neural networks (MLP and CNN) trained on the Kaggle digit-recogni
 - `data/train.csv` and `data/test.csv` should be downloaded from Kaggle and placed under `data/`.
 
 
+## License
+
+MIT 2026©
 
